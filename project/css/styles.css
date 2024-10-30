@@ -58,7 +58,11 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-
+.total {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 20px;
+}
 .list-text {
     text-transform: capitalize;
     font-weight: 500;
@@ -68,10 +72,4 @@ body {
 .price {
     font-size: 20px;
     font-weight: 700;
-}
-
-.total {
-    text-transform: uppercase;
-    font-weight: 700;
-    font-size: 20px;
 }
